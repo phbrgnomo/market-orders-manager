@@ -8,9 +8,9 @@ Prompt Toolkit
 ## Getting Started
 
 Clone the repository:
-
+```
   $ git clone https://github.com/YOUR-USERNAME/Cryptocurrency-Order-Management-Program.git
-
+```
 Install the required packages:
   $ pip install prompt_toolkit
 
