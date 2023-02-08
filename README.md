@@ -6,18 +6,16 @@ Python 3.x
 Prompt Toolkit
 
 ## Getting Started
+
 Clone the repository:
 
-Copy code
-$ git clone https://github.com/YOUR-USERNAME/Cryptocurrency-Order-Management-Program.git
+  $ git clone https://github.com/YOUR-USERNAME/Cryptocurrency-Order-Management-Program.git
+
 Install the required packages:
+  $ pip install prompt_toolkit
 
-Copy code
-$ pip install prompt_toolkit
 Run the program:
-
-Copy code
-$ python main.py
+  $ python main.py
 
 ## Contributions
 Contributions are welcome! If you find a bug or have an idea for a new feature, feel free to open an issue or submit a pull request.
